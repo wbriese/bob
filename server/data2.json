@@ -1,0 +1,356 @@
+{
+  "items": [
+      {
+          "id": 70253702,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T14:37:39.65659Z",
+          "shipCustomerId": 10878,
+          "sourceType": "AIS",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T14:34:35Z",
+          "latitude": 27.50559,
+          "longitude": -94.23084,
+          "course": 139.6,
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "calculatedDistance": 14.474964467541097,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": 139.00107672266736,
+          "calculatedSpeedOverGround": 14.474964467541097,
+          "noonFlags": "None",
+          "additionalValues": []
+      },
+      {
+          "id": 70252168,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T13:37:39.47036Z",
+          "shipCustomerId": 10878,
+          "sourceType": "AIS",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T13:34:35Z",
+          "latitude": 27.68817,
+          "longitude": -94.40898,
+          "course": 152.0,
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "calculatedDistance": 22.569979597014868,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": 179.8231754794468,
+          "calculatedSpeedOverGround": 14.470512297284689,
+          "noonFlags": "None",
+          "additionalValues": []
+      },
+      {
+          "id": 70249701,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T12:07:45.4688Z",
+          "shipCustomerId": 10878,
+          "sourceType": "AIS",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T12:01:00Z",
+          "latitude": 28.06536,
+          "longitude": -94.41029,
+          "course": 180.4,
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "calculatedDistance": 16.974545698026819,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": 177.61062302870974,
+          "calculatedSpeedOverGround": 14.566952208080227,
+          "noonFlags": "None",
+          "additionalValues": []
+      },
+      {
+          "id": 70247757,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T10:53:23.75826Z",
+          "shipCustomerId": 10878,
+          "sourceType": "AIS",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T10:51:05Z",
+          "latitude": 28.34878,
+          "longitude": -94.42364,
+          "course": 177.4,
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "calculatedDistance": 18.399901514645062,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": 178.59243707563729,
+          "calculatedSpeedOverGround": 14.545376691419023,
+          "noonFlags": "None",
+          "additionalValues": []
+      },
+      {
+          "id": 70245782,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T09:37:40.72826Z",
+          "shipCustomerId": 10878,
+          "sourceType": "AIS",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T09:35:11Z",
+          "latitude": 28.65616,
+          "longitude": -94.43219,
+          "course": 177.6,
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "calculatedDistance": 18.065056992177734,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": 181.17701601246733,
+          "calculatedSpeedOverGround": 14.490687426880536,
+          "noonFlags": "None",
+          "additionalValues": []
+      },
+      {
+          "id": 70243818,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T08:23:05.3619Z",
+          "shipCustomerId": 10878,
+          "sourceType": "AIS",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T08:20:23Z",
+          "latitude": 28.95796,
+          "longitude": -94.42515,
+          "course": 179.2,
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "calculatedDistance": 13.298325712050174,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": 163.58779015864695,
+          "calculatedSpeedOverGround": 13.21390355047768,
+          "noonFlags": "None",
+          "additionalValues": []
+      },
+      {
+          "id": 70242241,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T07:23:15.26203Z",
+          "shipCustomerId": 10878,
+          "sourceType": "AIS",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T07:20:00Z",
+          "latitude": 29.17111,
+          "longitude": -94.49661,
+          "course": 129.9,
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "calculatedDistance": 4.6433877461858728,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": 135.73126331780622,
+          "calculatedSpeedOverGround": 13.930163238557618,
+          "noonFlags": "None",
+          "additionalValues": []
+      },
+      {
+          "id": 70242067,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T07:22:13.61422Z",
+          "shipCustomerId": 10878,
+          "sourceType": "VesLink",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T07:00:00Z",
+          "latitude": 29.226667,
+          "longitude": -94.558333,
+          "status": "Approved",
+          "positionType": "StartOfSeaPassage",
+          "weather": {},
+          "robBunkers": [
+              {
+                  "bunkerTypeId": 2,
+                  "rob": 923.7,
+                  "calculatedUsage24h": 0.0
+              },
+              {
+                  "bunkerTypeId": 8,
+                  "rob": 137.1,
+                  "calculatedUsage24h": 0.0
+              }
+          ],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "calculatedDistance": 0.0,
+          "calculatedDistanceBetweenNoons": 0.0,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": "NaN",
+          "calculatedSpeedOverGround": 0.0,
+          "calculatedDistance24h": 0.0,
+          "calculatedConsumerROBMismatch": [],
+          "noonFlags": "None",
+          "additionalValues": [
+              {
+                  "id": 2,
+                  "val": "7.6"
+              },
+              {
+                  "id": 1,
+                  "val": "7.8"
+              },
+              {
+                  "id": 38,
+                  "val": "15.5"
+              },
+              {
+                  "id": 45,
+                  "val": "1542"
+              },
+              {
+                  "id": 34,
+                  "val": "Laden"
+              },
+              {
+                  "id": 42,
+                  "val": "1155005"
+              },
+              {
+                  "id": 24,
+                  "val": "HOUSTON"
+              },
+              {
+                  "id": 25,
+                  "val": "PANAMA CANAL"
+              },
+              {
+                  "id": 27,
+                  "val": "2020-12-24 21:00"
+              },
+              {
+                  "id": 50,
+                  "val": "2.5"
+              },
+              {
+                  "id": 36,
+                  "val": "8350"
+              }
+          ]
+      },
+      {
+          "id": 70242061,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T07:17:07.99117Z",
+          "shipCustomerId": 10878,
+          "sourceType": "VesLink",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T06:59:00Z",
+          "latitude": 29.226667,
+          "longitude": -94.558333,
+          "comment": "11.12.2020 1430LT-2145LT - opening of hold preparation for loading  12.12.2020 0710LT - Stevedores onboard 1045LT -Start welding, start lashing 1150LT - Stop welding, Welders break 1300LT - Resume welding 1500LT - Stop welding and lashing 2224LT - Start s",
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [
+              {
+                  "bunkerTypeId": 2,
+                  "rob": 923.7
+              },
+              {
+                  "bunkerTypeId": 8,
+                  "rob": 137.1
+              }
+          ],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [
+              {
+                  "bt": 8,
+                  "bct": 1,
+                  "val": 0.9
+              },
+              {
+                  "bt": 8,
+                  "bct": 2,
+                  "val": 0.1
+              }
+          ],
+          "calculatedDistance": 9.1448502503915243,
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "calculatedCourse": 135.57486468432145,
+          "calculatedSpeedOverGround": 12.536733016530651,
+          "calculatedConsumerROBMismatch": [],
+          "noonFlags": "None",
+          "additionalValues": [
+              {
+                  "id": 83,
+                  "val": "-6"
+              },
+              {
+                  "id": 42,
+                  "val": "1155005"
+              },
+              {
+                  "id": 24,
+                  "val": "HOUSTON"
+              }
+          ]
+      },
+      {
+          "id": 70240643,
+          "imo": "9504798",
+          "insertionDateTime": "2020-12-20T06:23:28.07829Z",
+          "shipCustomerId": 10878,
+          "sourceType": "AIS",
+          "masterShipId": 7961,
+          "utcDate": "2020-12-20T06:15:14Z",
+          "latitude": 29.33579,
+          "longitude": -94.68033,
+          "course": 124.1,
+          "status": "Approved",
+          "positionType": "Normal",
+          "weather": {},
+          "robBunkers": [],
+          "bunkeredValues": [],
+          "bunkerConsumerValues": [],
+          "observedDistanceObj": {
+              "discrepancyBetweenObservedAndCalculated": false
+          },
+          "noonFlags": "None",
+          "additionalValues": []
+      }
+  ],
+  "totalRecordsFound": 10190,
+  "orderedBy": "dtg",
+  "isSortedDescending": true
+}
