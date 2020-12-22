@@ -4,7 +4,7 @@
   "description": "A Codeworks weekly assessment for students",
   "main": "index.js",
   "scripts": {
-    "install": "cd server && npm i .",
+    "install": "",
     "precommit": "cd server && gulp lint",
     "test": "mocha --exit"
   },
